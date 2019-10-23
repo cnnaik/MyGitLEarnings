@@ -6,5 +6,7 @@ Starting with Nugget2 today..Learning interacting with remote repo and local rep
 
 Learning fetch & pull push
 
+Proceeding to Merge in git
 Concluding for today !!
+
 
